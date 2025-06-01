@@ -1,0 +1,49 @@
+# Ambiente virtual
+venv/
+.env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Arquivos temporários de sistema
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de testes
+*.pytest_cache/
+.coverage
+.tox/
+htmlcov/
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Configuração de Jupyter e IPython
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# Arquivos pessoais
+*.sqlite3
+*.db
+*.bak
+*.tmp
+*.old
+
+# Arquivos ge
