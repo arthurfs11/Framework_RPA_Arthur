@@ -1,0 +1,14 @@
+07/02/2025 14:17:12 | INFO | 30707735 | Inicializando Selenium
+07/02/2025 14:17:34 | SUCCESS | 30707735 | Sucesso na inicialização do Selenium
+07/02/2025 14:18:38 | INFO | 55438991 | Inicializando Selenium
+07/02/2025 14:18:50 | SUCCESS | 55438991 | Sucesso na inicialização do Selenium
+07/02/2025 14:18:50 | INFO | 55438991 | Abertura do site: https://www.google.com/
+07/02/2025 14:18:52 | INFO | 55438991 | Seleção campo de busca
+07/02/2025 14:18:55 | INFO | 55438991 | Botão buscar
+07/02/2025 14:18:59 | SUCCESS | 55438991 | Primeira task realizada.
+07/02/2025 14:20:13 | INFO | 41442219 | Inicializando Selenium
+07/02/2025 14:20:24 | SUCCESS | 41442219 | Sucesso na inicialização do Selenium
+07/02/2025 14:20:24 | INFO | 41442219 | Abertura do site: https://www.google.com/
+07/02/2025 14:20:25 | INFO | 41442219 | Seleção campo de busca
+07/02/2025 14:20:29 | INFO | 41442219 | Botão buscar
+07/02/2025 14:20:32 | SUCCESS | 41442219 | Primeira task realizada.
